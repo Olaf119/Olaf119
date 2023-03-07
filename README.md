@@ -36,3 +36,9 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
   <img src = "https://github-readme-stats.vercel.app/api?username=russell1130&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=russell1130&theme=dark&hide_border=true" width = 400>
 </p>
+
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
