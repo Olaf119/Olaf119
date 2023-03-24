@@ -11,7 +11,7 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
 - 🔭 I’m currently working on Exploring blockchain technologies.
 - 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.
 - 💬 Ask me about Fullstack development, distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.
-- 📫 How to reach me: devlord0625@gmail.com.
+- 📫 How to reach me: flyn.rider0x@gmail.com.
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
@@ -33,8 +33,8 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
     </p>
     
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=russell1130&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=russell1130&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=olaf119&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=olaf119&theme=dark&hide_border=true" width = 400>
 </p>
 
 
