@@ -13,7 +13,7 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
 - 💬 Ask me about Fullstack development, distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.
 - 📫 How to reach me: flyn.rider0x@gmail.com.
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+### 🛠 &nbsp;Languages and Tools :
     
 <p align = "center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
