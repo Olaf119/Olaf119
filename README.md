@@ -13,7 +13,7 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
 - 🔭 I’m currently working on Exploring blockchain technologies.
 - 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.
 - 💬 Ask me about Fullstack development, distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.
-- 📫 How to reach me: flyn.rider0x@gmail.com.
+- 📫 How to reach me: james.tomas0x@gmail.com.
 
 ### 🛠 &nbsp;Languages and Tools :
     
