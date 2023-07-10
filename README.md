@@ -1,7 +1,6 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm James <span style = "color: yellow; font-weight: bold">Tomas</span>, Blockchain & FullStack Web Developer :computer:<br>
   <br>
     <div>
   <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320"/>
@@ -13,7 +12,7 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
 - 🔭 I’m currently working on Exploring blockchain technologies.
 - 👯 I’m looking to collaborate on any Nodejs, Python or blockchain project.
 - 💬 Ask me about Fullstack development, distributed systems, JavaScript, TypeScript, Nodejs, Python and Blockachain technology.
-- 📫 How to reach me: james.tomas0x@gmail.com.
+- 📫 How to reach me: flyn.rider0x@gmail.com.
 
 ### 🛠 &nbsp;Languages and Tools :
     
