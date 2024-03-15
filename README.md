@@ -60,13 +60,24 @@ I’m a software engineer with concentration in Blockchain and Full Stack Engine
 </p>
 ---
 
-### 🔥 &nbsp; My Stats :
+## 📊 Github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olaf119&layout=compact&theme=vision-friendly-dark)](https://github.com/olaf119/github-readme-stats)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=codeninja819&theme=radical&no-bg=true&no-frame=true&column=6" alt="codeninja819" />
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeninja819&theme=dark&show_icons=true&count_private=true&hide_border=true" width="59%" alt="codeninja819" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeninja819&layout=compact&langs_count=6&theme=dark&hide_border=true" width="38%" alt="codeninja819" />
+</p>
 
----
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeninja819&theme=dark&hide_border=true" alt="codeninja819" />
+</p>
 
-### Watch my contribution graph get eaten by the snake 🐍
+<!-- 
+<p align="center">
+<img src = "profile-3d-contrib/profile-night-rainbow.svg" alt="codeninja819" />
+</p>
+-->
 
-<!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+<!-- ## ⚡ Recent GitHub Activity -->
